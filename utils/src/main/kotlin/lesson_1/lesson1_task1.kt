@@ -1,3 +1,5 @@
 package org.example.utils.lesson_1
 
-fun main ()
+fun main () {
+    println("Hello World")
+}
