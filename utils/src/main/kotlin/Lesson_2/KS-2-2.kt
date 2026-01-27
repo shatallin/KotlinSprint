@@ -15,14 +15,8 @@ fun main () {
 
     val averageSalary = sum / (intern + employee)
 
-    //ЗП постоянных сотрудников
     println(sumSalariesEmployee)
-
-    //ЗП после прихода стажеров
     println(sum)
-
-    //Cредняя ЗП
     println(averageSalary)
-
 
 }
